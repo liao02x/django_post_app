@@ -56,7 +56,7 @@ The app has a few tests for the endpoints. To run the tests, run the following c
 python manage.py test
 ```
 
-The unit tests are defined in `django_post_app/tests_unit.py` and the api tests are defined in `django_post/tests_api.py`.
+The unit tests are defined in `django_post_app/tests_unit.py` and the api tests are defined in `django_post_app/tests_api.py`.
 
 ## Notes
 
